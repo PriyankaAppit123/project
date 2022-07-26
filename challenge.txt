@@ -1,0 +1,90 @@
+Coding Challenge Part 1: Discount Price
+Calculating discounted price of an item.
+
+You are given two values stored in variables called price and discountPercentage.
+Let listPrice =100 discountPercentage =25
+
+Task is to calculate the price of the product after applying the said discount and display it in the console.
+Given code:
+* let listPrice=100
+* let discountPercentage=25
+
+Hint:
+
+Formula to calculate discount_price is
+* discount price = (list price) - ((list price) * 25/100)
+
+
+=========================================================
+Coding Challenge Part 2: Area Of A Circle
+Area of circle
+Area of a circle is calculated by a mathematical formula a = pi * radius^2
+Given the radius of a circle as 50, calculate the area of the circle and display a message
+Area of the circle with radius 50 is 9000 sq meters
+If area has any decimal values, make sure to remove them
+==========================================================
+Coding challenge: if/else
+
+Let's say to apply as a candidate for a local basketball team,you need to be at least 175 cm tall.
+
+write a program to determine if a candidate is qualified to apply for the team depending on his height.
+
+If the height is greater than or equal to 175, display a message
+
+"You qualify to apply"
+
+If height is less than 175, display a message
+
+"You are not qualified to apply."
+==============================================================
+Coding Challenge Part 4: Nested If
+Coding challenge: nested if
+
+Here is the basic criteria required to be a pilot
+Minimum 50% marks in high school.
+Age requirements:
+
+    >= 16 for student pilot license.
+
+    >=17 for private pilot license.
+
+    >=18 for commertial pilot liennse.
+
+Minimum 70% marks in exam conducted by aviation department.
+
+Task:
+
+Depending on above criteria, check if a student qualifies.
+
+Check for the criteria in the following order:
+
+1. High school marks.
+
+2. Aviation exam marks.
+
+3. Age.
+
+If the criteria matches, send an appropriate response.
+
+If some of the criteria does not match, respond accordingly.
+
+Display a message such that a student should understand why he/she is rejected.
+==============================================================
+
+
+Coding Challenge Part 5: Multiplication Loops
+Coding challenge: Create multiplication tables of numbers 3,7 and 9
+
+Using while do while and for loops respectively.
+Tables should have multiples of numbers from 1 to 10.
+==============================================================
+
+Coding Challenge Part 6: Detect Odd Numbers
+Coding challenge: Arrays and loops
+Given an array of random numbers, write some code to detect odd numbers from given array and then remove them
+ 
+Task:
+
+1. Create an array of at least 10 random numbers.
+2. Detect odd numbers from it.
+
