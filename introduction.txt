@@ -1,0 +1,4 @@
+to connect the js file to  html file
+for css, link tag is used 
+for js , script tag is used
+<script type = text/ javascript src = "demo.js"> 

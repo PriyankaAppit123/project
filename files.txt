@@ -1,0 +1,23 @@
+2 *3 **4
+162
+2*(2 +3)**3
+250
+var a = 10
+undefined
+a
+10
+name = 'radha'
+'radha'
+name
+'radha'
+let phy = 34
+undefined
+phy
+34
+let phy = 34
+let mat = 32
+undefined
+phy + mat
+66
+(phy+ mat)/2
+33
